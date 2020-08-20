@@ -1,10 +1,11 @@
 import React from 'react';
+import Form from './components/Form';
 
 export default function App() {
 
   return (
-    <div>
-      <h1>Olá function componets!</h1>
+    <div className='container'>
+      <Form />
     </div>
   )
 
