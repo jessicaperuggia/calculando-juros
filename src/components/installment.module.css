@@ -1,0 +1,15 @@
+.installmentContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    padding: 4px;
+    margin: 4px;
+}
+
+.span{
+    margin-right: 5px;
+}
